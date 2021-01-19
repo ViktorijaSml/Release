@@ -1,4 +1,4 @@
-# Release-
+# Release-4.0
 Repozitorij za laboratorijske vjezbe.
 <h2 style="text-align:left;float:left;">Naslov</h2>
 <p tyle="text-align:right;float:right;">4. Laboratorijska vježba</p>
