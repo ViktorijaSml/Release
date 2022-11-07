@@ -1,5 +1,6 @@
 # Release-4.0
-Repozitorij za laboratorijske vjezbe.
+Repozitorij za laboratorijske vjezbe. 
+Ovaj reporitorij je read-only!
 <h2 style="text-align:left;float:left;">Naslov</h2>
 <p tyle="text-align:right;float:right;">4. Laboratorijska vježba</p>
 <hr style="clear:both;"/>
