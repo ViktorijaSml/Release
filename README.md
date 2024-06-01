@@ -15,7 +15,7 @@ Ovaj reporitorij je read-only!
 <p tyle="text-align:right;float:right;">19.01.2021.</p>
 <hr style="clear:both;"/>
 <h5 style="text-align:left;float:left;">Kontakt - mail</h5>
-<p tyle="text-align:right;float:right;">vsmlatic@gmail.com</p>
+<p tyle="text-align:right;float:right;">smlaticviktorija@gmail.com</p>
 <hr style="clear:both;"/>
 <h5 style="text-align:left;float:left;">Verzija</h5>
 <p tyle="text-align:right;float:right;">3.0 </p>
